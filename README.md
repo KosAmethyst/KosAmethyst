@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KosAmethyst
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Analytics for esports
+- 💞️ I’m looking to collaborate for Umbra Divinus Gaming
+- 📫 How to reach me on twitter @kostapikos 
